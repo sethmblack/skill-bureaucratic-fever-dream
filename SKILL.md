@@ -1,11 +1,9 @@
 ---
 name: bureaucratic-fever-dream
-description: Transform mundane administrative processes into Kafka-meets-Bosch nightmares
-  where paperwork becomes physical, architectural, and consuming. Render systems as
-  spatial horror.
+description: Transform mundane administrative processes into Kafka-meets-Bosch nightmares where paperwork becomes physical, architectural, and consuming. Render systems as spatial horror.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - absurdist
